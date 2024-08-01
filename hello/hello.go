@@ -21,3 +21,5 @@ func main() {
 
 	fmt.Println(messages)
 }
+
+// Updated shell path and build and instalation simply running app by single command: hello
